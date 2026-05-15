@@ -84,5 +84,8 @@ An additional layer where you form words by sliding your finger between letters.
 
 ## About
 
-Designed and developed by **Lauren** ([@SatoDaima in X] (https://github.com/SatoDaima))  
-Built with HTML, CSS and vanilla JavaScript — no frameworks, no dependencies.
+Designed and developed by Sato Daima (https://github.com/SatoDaima)
+
+I'm not a programmer — I'm good at giving precise instructions to AI to build what I envision. This project is the result of that collaboration.
+
+Looking for Android developers interested in helping me to build this keyboard and future projects. Reach out on X: @SatoDaima
